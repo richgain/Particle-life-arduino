@@ -1,5 +1,6 @@
 # Particle-life-arduino
 Particle life converted from hunar4321's javascript code with some help from ChatGPT
+https://github.com/hunar4321/particle-life
 
 After playing with Tom Mohr's version of Particle Life and then discovering hunar4321's github page, 
 I wanted to try and find a version that would run on an ESP32.
